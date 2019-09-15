@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body {
+  margin: 0;
+ background: url(../src/bg-main.jpg)no-repeat;
+ background-size: cover; 
+ font-family: 'Open Sans', sans-serif;
+}
+
+.heading-text h1{
+  font-size: 5rem;
+  color: white!important;
+  margin-top: 5%;
+}
